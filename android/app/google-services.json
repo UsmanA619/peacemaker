@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278656745208",
+    "project_id": "pushnotifications-c7f18",
+    "storage_bucket": "pushnotifications-c7f18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278656745208:android:67f32b4f56855318f8850d",
+        "android_client_info": {
+          "package_name": "com.peacemaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278656745208-v2lvud8lnsn6coemsko54f0imlug8qn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxDBEDzQxg17IDqlLtQGYH75IoihxF_uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278656745208-v2lvud8lnsn6coemsko54f0imlug8qn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
